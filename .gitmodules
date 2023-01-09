@@ -1,0 +1,6 @@
+[submodule "family-game-api"]
+	path = family-game-api
+	url = https://github.com/birhanuh/family-game-api.git
+[submodule "family-game-web"]
+	path = family-game-web
+	url = https://github.com/birhanuh/family-game-web.git
